@@ -1,7 +1,7 @@
 ---
 name: "[SQL] [MySQL] [복습1] 할일 및 일정 관리"
 about: Describe this issue template's purpose here.
-title: "[SQL] [MySQL] [복습1] 할일 및 일정 관리"
+title: "[SQL] [MySQL] [복습1] 할일 및 일정 관리 "
 labels: mysql, review1
 assignees: jectgenius
 
